@@ -5,14 +5,14 @@ const mostPopularItems = [
     id:1,
     name: "Hot Chocolate",
     desc: "Rich & cozy with marshmallows",
-    price: " $3.90",
+    price: " $1.90",
     img: "./asset/image/cappucino.jpg"
   },
   {
     id:2,
     name: "Cappuccino",
     desc: "Perfect espresso & foam balance",
-    price: " $4.20 ",
+    price: " $1.20 ",
     img: "./asset/image/latte macchito.jpg"
    
   },
@@ -20,28 +20,28 @@ const mostPopularItems = [
     id:3,
     name: "Matcha Latte",
     desc: "Creamy & indulgent",
-    price: " $5.50 ",
+    price: " $1.50 ",
     img: "./asset/image/ice-vanilla-late.jpg"
   },
   {
     id:4,
     name: " chocolate Latte",
     desc: "Black Coffee",
-    price: " $4.10 ",
+    price: " $1.10 ",
      img: "./asset/image/cocholate-late.jpg"
   },
    {
     id:5,
     name: "Latte",
     desc: "Black Coffee",
-    price: " $4.10 ",
+    price: " $1.10 ",
      img: "./asset/image/latte.jpg"
   },
    {
     id:6,
     name: "Ice caramel",
     desc: "Black Coffee",
-    price: " $4.10 ",
+    price: " $1.10 ",
      img: "./asset/image/ice-caramel.jpg"
   },
   ,
@@ -49,14 +49,14 @@ const mostPopularItems = [
     id:7,
     name: "Ice caramel",
     desc: "Black Coffee",
-    price: " $4.10 ",
+    price: " $1.10 ",
     img: "./asset/image/Masala Soda.jpg"
   },
   {
     id:8,
     name: "Ice caramel",
     desc: "Black Coffee",
-    price: " $4.10 ",
+    price: " $1.10 ",
      img: "./asset/image/stawberry-soda.jpg"
   },
 ];
@@ -117,56 +117,56 @@ const trendingItems = [
     id:1,
     name: "Vanilla Milk Tea",
     desc: "Premium Japanese matcha",
-    price: " $4.80 ",
+    price: " $1.80 ",
     img: "./asset/image/Iced green tea coffee.jpg"
   },
   {
     id:2,
     name: "Green Tea Milk",
     desc: "Over-the-top milkshake madness",
-    price: "One Size $9.90",
+    price: "$1.90",
     img: "./asset/image/Strawberry matcha latte.jpg"
   },
   {
     id:3,
     name: "Green Tea Milk",
     desc: "Over-the-top milkshake madness",
-    price: "One Size $9.90",
+    price: "$1.90",
     img: "asset/image/Iced Matcha Latte.jpg"
   },
   {
     id:4,
     name: "Green Tea Milk",
     desc: "Over-the-top milkshake madness",
-    price: "One Size $9.90",
+    price: "$1.90",
     img: "asset/image/greentea.jpg"
   },
    {
     id:5,
     name: "Vanilla Milk Tea",
     desc: "Premium Japanese matcha",
-    price: " $4.80",
+    price: " $1.80",
     img: "./asset/image/LEMON MINT.jpg"
   },
   {
     id:6,
     name: "Green Tea Milk",
     desc: "Over-the-top milkshake madness",
-    price: "One Size $9.90",
+    price: " $1.90",
     img: "./asset/image/Iced Tea Recipe.jpg"
   },
   {
     id:7,
     name: "Green Tea Milk",
     desc: "Over-the-top milkshake madness",
-    price: "One Size $9.90",
+    price: "$1.90",
     img: "asset/image/iced tea with peach.jpg"
   },
   {
     id:8,
     name: "Green Tea Milk",
     desc: "Over-the-top milkshake madness",
-    price: "One Size $9.90",
+    price: "$1.90",
     img: "asset/image/Butterfly Pea Tea Lemonade.jpg"
   }
 ];
