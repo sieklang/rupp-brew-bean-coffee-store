@@ -56,7 +56,7 @@ const coffees= [
     id:8,
     name: "Avocado Banana Smoothie Recipe",
     desc: "Avocado Banana Smoothie Recipe",
-    price: "$4.10",
+    price: "$1.10",
      img: "./asset/image/Avocado Banana Smoothie Recipe.jpg"
   },
 ];
@@ -152,7 +152,7 @@ const teas = [
     id:14,
     name: "Mango matcha latte",
     desc: "Mango matcha latte",
-    price: "One Size $9.90",
+    price: "$1.90",
     img: "./asset/image/Mango matcha latte.jpg"
   },
   {
@@ -224,7 +224,7 @@ const frapes = [
     id:17,
     name: "Vanilla Bean Frappuccino",
     desc: "Vanilla Bean Frappuccino",
-    price: "S $1.90 • M $2.90 • L $3.00",
+    price: "$1.90",
     img: "./asset/image/Vanilla Bean Frappuccino Recipe.jpg"
   },
   {
