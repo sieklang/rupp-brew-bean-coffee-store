@@ -13,7 +13,7 @@ const coffees= [
     id:2,
     name: "LATTE MACHITO",
     desc: "Perfect espresso & foam balance",
-    price: " $4.20 ",
+    price: " $1.20 ",
     img: "./asset/image/latte macchito.jpg"
    
   },
@@ -27,21 +27,21 @@ const coffees= [
     id:4,
     name: "ICE CARAMEL",
     desc: "ICE CARAMEL",
-    price: " $4.10 ",
+    price: " $1.10 ",
      img: "./asset/image/ice-caramel.jpg"
   },
    {
     id:5,
     name: "BLACK ICE COFFEE VIETNAMESE ",
     desc: "Black Coffee",
-    price: " $4.10 ",
+    price: " $1.10 ",
      img: "./asset/image/Black Ice Coffee Vietnamese.jpg"
   },
    {
     id:6,
     name: "Caramel Macchiato",
     desc: "Caramel Macchiato",
-    price: " $4.10 ",
+    price: " $1.10 ",
      img: "./asset/image/Caramel Macchiato.jpg"
   },
   ,
@@ -49,7 +49,7 @@ const coffees= [
     id:7,
     name: "DALGONA COFFEE",
     desc: "DALGONA COFFEE",
-    price: "$4.10",
+    price: "$1.10",
      img: "./asset/image/Dalgona Coffee.jpg"
   },
   {
@@ -117,35 +117,35 @@ const teas = [
     id:9,
     name: "Iced green tea coffee",
     desc: "Premium Japanese matcha",
-    price: "S $4.80 • M $5.80 • L $6.80",
+    price: "$1.80",
     img: "./asset/image/Iced green tea coffee.jpg"
   },
   {
     id:10,
     name: "Strawberry matcha latte",
     desc: "Over-the-top milkshake madness",
-    price: "One Size $9.90",
+    price: "$1.90",
     img: "./asset/image/Strawberry matcha latte.jpg"
   },
   {
     id:11,
     name: "Iced Matcha Latte",
     desc: "Over-the-top milkshake madness",
-    price: "One Size $9.90",
+    price: "$1.90",
     img: "asset/image/Iced Matcha Latte.jpg"
   },
   {
     id:12,
     name: "Green Tea Milk",
     desc: "Over-the-top milkshake madness",
-    price: "One Size $9.90",
+    price: "$1.90",
     img: "asset/image/greentea.jpg"
   },
    {
     id:13,
     name: "Matcha Lemonade",
     desc: "Matcha Lemonade",
-    price: "S $4.80 • M $5.80 • L $6.80",
+    price: " $1.80",
     img: "./asset/image/Matcha Lemonade.jpg"
   },
   {
@@ -159,13 +159,13 @@ const teas = [
     id:15,
     name: "Matcha Blueberry Lemonade",
     desc: "Matcha Blueberry Lemonade",
-    price: "One Size $9.90",
+    price: " $1.90",
     img: "asset/image/Matcha Blueberry Lemonade.jpg"
   },
   { id:16,
     name: "Cheesy Loaded Pocket Tacos Packed with bold Flavor",
     desc: "Cheesy Loaded Pocket Tacos Packed with bold Flavor",
-    price: "One Size $9.90",
+    price: " $1.90",
     img: "asset/image/Cheesy Loaded Pocket Tacos Packed with bold Flavor.jpg"
   }
 ];
@@ -231,49 +231,49 @@ const frapes = [
     id:18,
     name: "Ice-cream chocolate shake",
     desc: "Ice-cream chocolate shake",
-    price: "S $4.20 • M $5.20 • L $6.20",
+    price: " $1.00",
     img: "./asset/image/chocolate-ice-shake.jpg"
   },
   {
     id:19,
     name: "ICE COFFEE",
     desc: "Creamy & indulgent",
-    price: "S $1.00 • M $1.50 • L $2.00",
+    price: "$1.50",
     img: "./asset/image/OREO MILKSHAKE.jpg"
   },
   {
     id:20,
     name: "Blueberry Milkshake",
     desc: "Blueberry Milkshake",
-    price: "$4.10",
+    price: "$1.10",
     img: "./asset/image/Blueberry Milkshake.jpg"
   },
   {
     id:21,
     name: "Raspberry Milkshake",
     desc: "Black Coffee",
-    price: "$4.10",
+    price: "$1.10",
     img: "./asset/image/Raspberry Milkshake.jpg"
   },
   {
     id:22,
     name: "Strawberry & Cream Frappe",
     desc: "Strawberry & Cream Frappe",
-    price: "$4.10",
+    price: "$1.10",
     img: "./asset/image/Strawberry & Cream Frappe.jpg"
   },
   {
     id:23,
     name: "Peach Milkshake",
     desc: "Peach Milkshake",
-    price: "$4.10",
+    price: "$1.10",
     img: "./asset/image/Peach Milkshake.jpg"
   },
   {
     id:24,
     name: "White Chocolate Frappuccino",
     desc: "White Chocolate Frappuccino",
-    price: "$4.10",
+    price: "$1.10",
     img: "./asset/image/White Chocolate Frappuccino.jpg"
   }
 ];
